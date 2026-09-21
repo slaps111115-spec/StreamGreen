@@ -28,7 +28,13 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707922
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9
-http://217.60.253.206:8080/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsT242VUlLU05mQXVvRzBZL21RaHhtZ3MvR3dnRkNYZHRuZC9MdUFQd0xZa0xwMnpSVnpSSzBQL1AvKzNSMTk2SVRqMTVNN3YrclZOUk1nUXR3Ky9xSkRvanRTOTBzeUhzRFdsb01PZ3ZpejQxbGh5dHExSVlwNmo5dXRtSGE5V0Qwd0NIMFEyWEZlZjRvRFV5cFE2b1JDRGJoU0ZpWXFNNlN6WEdGbitDTnRlb0tTTlE3SlA5UDdsK2pOSGdZZ2J5dmlWM3ZwNlRNK1RaSmgwaERmbmZSMHpOV2RmL1NaZE1raGJxTWpXQ1JRalFIM2pjbGFvb0tsMmZzTnFLRTB2UElwNThVZVJjbDdBOG8zRkxBc1EwUmVTM1BzWkJZZUN6VmNCcWt6RS9XM
+Channel is offline!
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1 Turkey
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:F5&stream=988852&extension=m3u8
+    
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sports 2 Turkey
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:F5&stream=988854&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/1223.ts
