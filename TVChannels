@@ -84,14 +84,8 @@ http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",5 Sport
 http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9_wM5rcMwtVk-UiNgoZqVR75NeM40nYVgcHgRfRGMExpHFhOP9A3wBYg5cGy0cKXq3Gg-ufZpPiTy1wDDINuGg",ספורט 1
-http://89.33.29.115:8080/sport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9_wM5rcMwtVk-UiNgoZqVR75NeM40nYVgcHgRfRGMExpHFhOP9A3wBYg5cGy0cKXq3Gg-ufZpPiTy1wDDINuGg",ספורט 2
-http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClsq6NIa7Rnsbk7xRBZRDEI6Q9O2WrhUbCg&s",UFC (test) 
-http://var8k.cc:8080/live/4917636663251/35727386005/859788.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLdyxtf.jpeg",Solo 4k
+http://var8k.cc:8080/live/4917636663251/35727386005/859793.m3u8
 
 
 
