@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png",beIN 4K
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png",beIN 4K (Not 24/7) 
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228800
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
@@ -78,7 +78,7 @@ http://snaptv.show:80/live/artan.odja098754098576/09847350348975305/357551.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQktv6Plx2uD_nQcD71ihKr6q3MNbn_zPnCw7W74WHDb8GGWeZomDMNza&s=10",NRT Sport
 http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601396.ts
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K (Not 24/7) 
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",5 Sport
