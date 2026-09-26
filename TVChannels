@@ -125,3 +125,6 @@ http://kdmax.myddns.me/live/4653175235828573/4653175235828573/324647.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYlbIrdh5YdYIpfA50pIYSTlCnl3vzAp1g&s",Test 3 (beIN Sports 9) 
 https://d1.gen-cdn-akamaizd.sbs/b9/tracks-v1a1/mono.m3u8?remote=185.181.109.82&remote=185.181.109.82/b9/index.m3u8?token=d8f2b798f49e90ae2935ebe104813f78b42414b7-5645299e8a147d5ca9bac1cdd25ee1dd-1790447265-1790436465&token=bd95d5d008de63dfe70edbb6d755eef515e13368-64611afd7a5c64ce930f085df0e57c03-1790447265-1790436465
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYlbIrdh5YdYIpfA50pIYSTlCnl3vzAp1g&s",Test 4
+http://premium2.ottpro2.org/live/alexandre/5939369/423831.m3u8
