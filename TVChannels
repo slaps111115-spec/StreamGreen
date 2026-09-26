@@ -39,6 +39,9 @@ http://premium2.ottpro2.org/live/alexandre/5939369/423814.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png",beIN Sports XTRA 3 
 http://premium2.ottpro2.org/live/alexandre/5939369/129998.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2025/01/beIN_SPORTS_XTRA_04_bein.com_.png",beIN Sports XTRA 4 (testing) 
+http://a.norzro.cfd/live/8667593288/2505245402/670925.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports (Not 24/7) 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/6123/index.m3u8
 
