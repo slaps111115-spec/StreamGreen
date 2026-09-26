@@ -81,11 +81,14 @@ http://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601396.ts
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png",5 Sport 4K (Not 24/7) 
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/12277/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLdyxtf.jpeg",Solo 4k (test) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQT4SVpS/Screenshot-20260926-130652-es-ottplayer-tv-Main-Activity-2.jpg",Solo Sports 4k hdr
 http://var8k.cc:8080/live/4917636663251/35727386005/859793.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLdyxtf.jpeg",Solo Sports UFC (test) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4CKZGh/Screenshot-20260926-125627-com-fedbak-myno-feedpak-Live-Tv-Activity-edit-7677334893424.jpg",Solo Sports UFC
 http://var8k.cc:8080/live/4917636663251/35727386005/859788.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Pc1M9bb/Screenshot-20260926-125634-com-fedbak-myno-feedpak-Live-Tv-Activity-edit-7721821273199.jpg",Solo Sports WWE
+Channel is offline! 
 
 
 
