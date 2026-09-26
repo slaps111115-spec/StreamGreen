@@ -117,6 +117,9 @@ http://var8k.cc:8080/live/4917636663251/35727386005/859786.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63BK3m3s/Screenshot-20260926-125617-com-fedbak-myno-feedpak-Live-Tv-Activity-edit-7746776131263.jpg",Solo Sports 5
 http://var8k.cc:8080/live/4917636663251/35727386005/859787.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ez6zkPIvS_jwbYnADjh6rnLvWP5k9ABnx6xkKqHILG2yE_8EjijLuF8D&s=10",Real Madrid.tv (720pHD) 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYlbIrdh5YdYIpfA50pIYSTlCnl3vzAp1g&s",Test 1 (Baraeam) 
 http://a.norzro.cfd/live/8667593288/2505245402/35025.m3u8
 
